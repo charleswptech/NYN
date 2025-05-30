@@ -1,3 +1,9 @@
 h1 {
-  font-family: "Serif", Times, serif;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
