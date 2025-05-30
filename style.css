@@ -1,55 +1,39 @@
-<html>
-   <link rel="stylesheet" type="text/css" href="style.css">
-<title>
-New York Noms
-</title>
-  <div class=bar>
-   New York Noms
-  </div>
-  <nav>
-    <ul>
-      <li>poop</li>
-      <li>poop</li>
-    </ul>
-  </nav>
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+div{
+  font-family: Arial, Helvetica, sans-serif;
+  padding:5px;
+  font-size: 17px;
+  font-weight:bold;
+}
 
-<h1>
-New York Noms
-</h1>
-  <h3>
-    Your Guide to Your Next Nom
-  </h3>
-<br>
-  <br><br>
-    <br>
-      <br>
-        <br><br><br>
-          di
-          <br>
-            <br>
-          d
-              <br>
-          d
-                <br>
-          d
-          d
-          d
-          d
-          d
-          d
-          d<br>
-                  <br>
-                    <br><br>
-          d
-                      <br>
-          d
-                        <br>
-          d
-          d
-                          <br>
-          d
-                            <br>
-          d
-          
-          
-</html
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.bar{
+  text-align: center;
+  font-Size: 50px;
+  background-color: rgb(194,106,194);
+  padding: 15px;
+  border-radius: 15px
+}
+ nav ul {
+    list-style-type: none;
+    padding: 15px;
+      position: sticky; top:0;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+     background-color: rgb(194,106,194);
+  border-radius: 10px
+  }
+  nav li {
+    margin: 0 10px;
+    font-Size: 30px;
+     position: sticky; top:0;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
