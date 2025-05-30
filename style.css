@@ -2,8 +2,18 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
+div{
+  font-family: Arial, Helvetica, sans-serif;
+  padding:5px;
+  font-size: 17px;
+  font-weight:bold;
+}
 
 h3{
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+}
+.bar{
+  background-color: rgb(194,106,194);
+  border-radius: 10px
 }
